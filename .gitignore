@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/__ExternalActors__/
+Content/ExternalContent/
+Content/__ExternalObjects__/
+Config/
+Content/Characters/Textures/Chr_FPS_Metal_02.uasset
+Content/Environment/Textures/holo_layer_1_5.uasset
