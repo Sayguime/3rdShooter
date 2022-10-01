@@ -1,1 +1,2 @@
 # 3rdShooter
+Educational project 
